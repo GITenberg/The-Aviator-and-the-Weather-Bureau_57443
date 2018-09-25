@@ -1,11 +1,16 @@
 _repo: The-Aviator-and-the-Weather-Bureau_57443
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57443-h/images/cover.jpg
 creator:
   author:
     agent_name: Carpenter, Ford A. (Ford Ashman)
     gutenberg_agent_id: '49389'
     url: http://www.gutenberg.org/2009/agents/49389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57443#The-Aviator-and-the-Weather-Bureau
 gutenberg_issued: '2018-07-04'
 gutenberg_type: Text
 identifiers:
